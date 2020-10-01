@@ -1,3 +1,3 @@
 # Pong_Game
 Basic pong game
-Link: https://mainakdeb.github.io/Pong_Game/
+Link to my Pong Game: https://mainakdeb.github.io/Pong_Game/
